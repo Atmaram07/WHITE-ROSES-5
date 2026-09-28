@@ -1,4 +1,4 @@
-# White Roses@5 — brochure-based landing page
+# White Roses@5
 
 A responsive, mobile-first landing page built with semantic HTML, CSS and vanilla JavaScript. The supplied 10-page White Rose brochure is the primary source for project imagery, floor areas, amenity lists, construction specifications and location connectivity. Brochure spreads have been converted into optimized WebP panels for web use.
 
