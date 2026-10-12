@@ -20,7 +20,7 @@ Then open `http://localhost:8000`.
 - Individual lift access for each unit (brochure plans show a lift; campaign creative states individual lift for each unit)
 - South-facing area statement: Ground 987 sq ft, First 996 sq ft, Second 942 sq ft, Terrace 202 sq ft, Total 3,127 sq ft
 - North-facing area statement: Ground 977 sq ft, First 982 sq ft, Second 930 sq ft, Terrace 205 sq ft, Total 3,095 sq ft
-- Amenities and finishes are transcribed from the supplied brochure; refer to the page copy for the full list
+- The page features a brochure recreation visual rather than publishing a full amenities list; confirm plans and availability with the developer
 - Project architect credited in the brochure: Rhythm Architects
 - Introductory price ₹1.45 Cr* for first 10 units is carried over from the earlier supplied campaign artwork, not the brochure; confirm current price, terms and availability before publishing
 - The exact project approval disclaimer from the earlier supplied campaign creative is retained
@@ -30,13 +30,13 @@ Then open `http://localhost:8000`.
 Images in `assets/brochure/` are cropped panels taken from the supplied brochure pages and converted to WebP. They are architectural renders, plan artwork, amenity imagery and brochure graphics—not photos of completed construction. Captions/alt text describe them accordingly.
 
 Used panels:
+- `assets/symbols.webp` — Aurobindo logos displayed beside the White Roses@5 header logo
 - `page-01-right.webp` — nature-themed brochure cover
 - `page-02-left.webp` — entrance/gateway architectural render
-- `page-03-left.webp` — aerial community render
+- `page-03-left.webp` — aerial community render used in the location map site marker
 - `page-04-left.webp` / `page-05-left.webp` — south- and north-facing typical floor plans and area statements
 - `page-04-right.webp` / `page-05-right.webp` — triplex villa exterior renders
-- `page-08-left.webp` — brochure amenity collage
-- `page-08-right.webp` — clubhouse/community building render
+- `page-08-right.webp` — clubhouse and recreation render used in the badminton/pool feature
 - `page-10-left.webp` — brochure location map and landmark notes
 
 ## Lead form configuration — required before launch
